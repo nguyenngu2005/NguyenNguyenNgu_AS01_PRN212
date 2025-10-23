@@ -1,0 +1,33 @@
+﻿<Application x:Class="NguyenNguyenNguWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Views/LoginView.xaml">
+    <Application.Resources>
+        <Style TargetType="Window">
+            <Setter Property="FontFamily" Value="Roboto"/>
+            <Setter Property="Background" Value="#1E1E1E"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <!-- Window style đã có ở đợt 1 -->
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="0,6,0,0"/>
+            <Setter Property="Padding" Value="10,6"/>
+            <Setter Property="Background" Value="#4FC3F7"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="#252526"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#4FC3F7"/>
+        </Style>
+
+        <Style TargetType="{x:Type DataGrid}">
+            <Setter Property="Background" Value="#252526"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#4FC3F7"/>
+            <Setter Property="RowHeight" Value="30"/>
+        </Style>
+    </Application.Resources>
+</Application>
