@@ -1,53 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\",
+  "WorkspaceRootPath": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\git\\nguyennguyenngu_as01_prn212\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC89246-2C7B-4C65-AA12-36F06650BEEF}|Data\\Data.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\data\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC89246-2C7B-4C65-AA12-36F06650BEEF}|Data\\Data.csproj|solutionrelative:data\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC89246-2C7B-4C65-AA12-36F06650BEEF}|Data\\Data.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\data\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC89246-2C7B-4C65-AA12-36F06650BEEF}|Data\\Data.csproj|solutionrelative:data\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\customerwelcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\viewmodels\\customerwelcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\views\\customerwelcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\views\\customerwelcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\views\\customerwelcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\views\\customerwelcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\git\\nguyennguyenngu_as01_prn212\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\git\\nguyennguyenngu_as01_prn212\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\git\\nguyennguyenngu_as01_prn212\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|e:\\fa25\\git\\nguyennguyenngu_as01_prn212\\nguyennguyenngu_se19b1_a01\\nguyennguyennguwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5475DA78-758A-45E7-A3F0-BFC337D4BE5C}|NguyenNguyenNguWPF\\NguyenNguyenNguWPF.csproj|solutionrelative:nguyennguyennguwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -71,154 +43,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReportViewModel.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\ReportViewModel.cs",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\ReportViewModel.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\ReportViewModel.cs",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\ReportViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:49:11.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfileViewModel.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\ProfileViewModel.cs",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\ProfileViewModel.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\ProfileViewModel.cs",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\ProfileViewModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:34:54.437Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\appsettings.json",
+              "ToolTip": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\appsettings.json",
+              "RelativeToolTip": "NguyenNguyenNguWPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T11:37:05.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InMemoryDatabase.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\Data\\Database\\InMemoryDatabase.cs",
-              "RelativeDocumentMoniker": "Data\\Database\\InMemoryDatabase.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\Data\\Database\\InMemoryDatabase.cs",
-              "RelativeToolTip": "Data\\Database\\InMemoryDatabase.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAQwFEAAAARAAAAAAAAAA==",
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:04:00.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T18:17:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
+              "ToolTip": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T18:14:14.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RoomType.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\Data\\Entities\\RoomType.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\RoomType.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\Data\\Entities\\RoomType.cs",
-              "RelativeToolTip": "Data\\Entities\\RoomType.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:43:28.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerWelcomeViewModel.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\CustomerWelcomeViewModel.cs",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\CustomerWelcomeViewModel.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\CustomerWelcomeViewModel.cs",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\CustomerWelcomeViewModel.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:28:32.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerWelcomeView.xaml.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml.cs",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml.cs",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:28:04.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerWelcomeView.xaml",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\Views\\CustomerWelcomeView.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\MainWindow.xaml",
+              "ToolTip": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\MainWindow.xaml",
+              "RelativeToolTip": "NguyenNguyenNguWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-23T18:25:17.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T18:05:29.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProfileView.xaml",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\ProfileView.xaml",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\Views\\ProfileView.xaml",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\ProfileView.xaml",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\Views\\ProfileView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-23T18:33:45.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\DashboardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T18:17:49.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DashboardView.xaml",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\Views\\DashboardView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-23T18:14:14.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\MainWindow.xaml",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\MainWindow.xaml",
-              "RelativeToolTip": "NguyenNguyenNguWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-23T18:05:29.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "E:\\FA25\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\FA25\\git\\NguyenNguyenNgu_AS01_PRN212\\NguyenNguyenNgu_SE19B1_A01\\NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "NguyenNguyenNguWPF\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T17:57:41.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T17:57:41.322Z"
             }
           ]
         },
